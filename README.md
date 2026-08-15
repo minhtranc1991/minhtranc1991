@@ -1,16 +1,26 @@
-## Hi there 👋
+# Trần Công Minh - MinhTC
 
-<!--
-**minhtranc1991/minhtranc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Trader | Quant Research | Python | MQL5
 
-Here are some ideas to get you started:
+I build systematic trading strategies, quantitative research systems, and production-oriented trading infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### Quant Brain
+
+A structured quantitative trading knowledge graph connecting research, concepts, models, strategies, and implementation.
+
+[Explore Quant Brain →](https://github.com/minhtranc1991/quant-brain)
+
+## Research & Engineering
+
+My work focuses on quantitative research and systematic trading, from research and statistical modeling to strategy development, backtesting, portfolio construction, and production implementation.
+
+- Quantitative Trading
+- Algorithmic Trading
+- Market Microstructure
+- Portfolio Construction
+- Statistical Modeling
+- Machine Learning
+- Python
+- MQL5
